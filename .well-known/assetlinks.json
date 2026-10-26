@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.supporthelp004.kisaplus",
-    "sha256_cert_fingerprints": ["11:01:91:09:E1:0B:06:A6:78:4B:FA:88:2A:70:C9:D2:7B:0D:54:21:F4:32:99:54:19:12:BA:12:32:26:89:1E"]
+    "package_name": "io.github.supporthelp004_stack.twa",
+    "sha256_cert_fingerprints": ["E0:02:40:5B:5D:CA:A4:4D:3D:60:59:6A:8B:9D:4F:96:23:9F:60:14:CC:C6:E6:BA:AB:DC:0C:23:5D:88:16:3A"]
   }
 }]
