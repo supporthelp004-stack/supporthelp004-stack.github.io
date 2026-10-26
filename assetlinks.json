@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.supporthelp004.kisaplus",
-    "sha256_cert_fingerprints": ["11:01:91:09:E1:0B:06:A6:78:4B:FA:88:2A:70:C9:D2:7B:0D:54:21:F4:32:99:54:19:12:BA:12:32:26:89:1E"]
-  }
-}]
